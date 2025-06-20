@@ -10,7 +10,7 @@
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: url("https://wallpapers.com/images/featured/4k-oaax18kaapkokaro.jpg")no-repeat;
+    background: url("https://unsplash.com/photos/UWQP2mh5YJI/download?ixid=M3wxMjA3fDB8MXxzZWFyY2h8Mnx8bmF0dXJlJTIwd2FsbHBhcGVyfGVufDB8fHx8MTc1MDIyMTM0NXww&force=true")no-repeat;
     background-size: cover;
 }
 
@@ -24,6 +24,7 @@
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1), 0px 10px 20px rgba(0, 0, 0, 0.7);
     border-radius: 12px;
     padding: 20px;
+    text-shadow: 0 0 5px #0ff, 0 0 5px #0ff, 0 0 5px #0ff, 0 0 5px #0ff, 0 0 5px #0ff;
 }
 
 .clock > h1 {
